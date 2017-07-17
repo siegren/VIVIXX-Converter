@@ -26,19 +26,19 @@ puts Converter.c_to_f(26.1)
 
 List of Converter
 -----------------
-km_to_mm() => Kilometer to Millimeter
-km_to_m() => Kilometer to Meter
-km_to_cm() => Kilometer to Centimeter
-m_to_km() => Meter to Kilometer
-m_to_cm() => Meter to Centimeter
-m_to_mm() => Meter to Millimeter
-km_to_mi() => Kilometer to Mile
-c_to_f() => Celsius to Millimeter
-f_to_c() => Fahrenheit to Celsius
-c_to_k() => Celsius to Kelvin
-cm_to_km() => Centieter to Kilometer
-cm_to_mm() => Centimeter to Millimeter
-cm_to_m() => CentiMeter to Meter
-cm_to_in() => CentiMeter to Inches
-in_to_cm() => Inches to Centimeter
+- km_to_mm() => Kilometer to Millimeter
+- km_to_m() => Kilometer to Meter
+- km_to_cm() => Kilometer to Centimeter
+- m_to_km() => Meter to Kilometer
+- m_to_cm() => Meter to Centimeter
+- m_to_mm() => Meter to Millimeter
+- km_to_mi() => Kilometer to Mile
+- c_to_f() => Celsius to Millimeter
+- f_to_c() => Fahrenheit to Celsius
+- c_to_k() => Celsius to Kelvin
+- cm_to_km() => Centieter to Kilometer
+- cm_to_mm() => Centimeter to Millimeter
+- cm_to_m() => CentiMeter to Meter
+- cm_to_in() => CentiMeter to Inches
+- in_to_cm() => Inches to Centimeter
 *** all methods have parameter
